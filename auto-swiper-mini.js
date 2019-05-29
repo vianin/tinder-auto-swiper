@@ -1,0 +1,1 @@
+javascript:function swipeRight(){var a=document.getElementsByClassName("recsGamepad__button End(15px)")[0];a.click()}function getRandomDelay(){return Math.round(Math.random()*1500)+500}(function a(){var b=getRandomDelay();setTimeout(function(){swipeRight(),a()},b)})();
