@@ -1,8 +1,6 @@
 # Tinder Plus Auto-Swiper
 
-A bookmarkable auto-swiper for Tinder Plus**.
-
-_\*\*Requires a paid Tinder Plus account to use properly._
+A bookmarkable auto-swiper for Tinder. (_\*\*Requires a paid Tinder Plus account to use properly._)
 
 ## How to Use it
 
